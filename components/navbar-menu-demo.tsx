@@ -11,7 +11,7 @@ export default function NavbarDemo({ className }: { className?: string }) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const resumeUrl = "/api/resume";
-  const githubUrl = "https://github.com/imnotdivyansh";
+  const githubUrl = "https://github.com/divyanshthakur5552";
 
   return (
     <div

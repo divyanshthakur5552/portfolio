@@ -8,11 +8,11 @@ export const ClipPathLinks = () => {
       <div className="grid grid-cols-2 border border-[#18181B]">
         <LinkBox 
           Icon={FaInstagram} 
-          href="https://www.instagram.com/your_instagram_handle" 
+          href="https://www.instagram.com/nocapitsdiv?igsh=bThsMzh6OTU3YTFs&utm_source=qr" 
         />
         <LinkBox 
           Icon={FaGithub} 
-          href="https://github.com/your_github_username" 
+          href="https://github.com/divyanshthakur5552" 
         />
       </div>
     </div>

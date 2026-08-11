@@ -156,7 +156,7 @@ export default function ContactSection() {
             </div>
             <div className="flex items-center gap-2">
               <a
-                href="https://github.com/imnotdivyansh"
+                href="https://github.com/divyanshthakur5552"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-xl bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 text-zinc-400 hover:text-white transition-colors"
@@ -165,7 +165,7 @@ export default function ContactSection() {
                 <FaGithub className="w-4 h-4" />
               </a>
               <a
-                href="https://www.instagram.com/your_instagram_handle"
+                href="https://www.instagram.com/nocapitsdiv?igsh=bThsMzh6OTU3YTFs&utm_source=qr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-xl bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 text-zinc-400 hover:text-white transition-colors"
