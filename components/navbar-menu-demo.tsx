@@ -10,7 +10,7 @@ export default function NavbarDemo({ className }: { className?: string }) {
   const [active, setActive] = useState<string | null>(null);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
-  const resumeUrl = typeof window !== "undefined" && window.location.hostname === "localhost" ? "http://localhost:5000/api/resume" : "/api/resume";
+  const resumeUrl = "/api/resume";
   const githubUrl = "https://github.com/imnotdivyansh";
 
   return (

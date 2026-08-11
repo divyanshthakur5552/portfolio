@@ -17,10 +17,9 @@ export const metadata: Metadata = {
   description: "Portfolio of Divyansh Thakur — Full-Stack Developer specializing in MERN Stack, React, Next.js, and GenAI Workflows.",
   icons: {
     icon: [
-      { url: "/favicon.ico?v=2", type: "image/x-icon" },
-      { url: "/logo.png", type: "image/png" },
+      { url: "/favicon.ico?v=3", type: "image/x-icon" },
     ],
-    shortcut: "/favicon.ico?v=2",
+    shortcut: "/favicon.ico?v=3",
     apple: "/logo.png",
   },
   openGraph: {
