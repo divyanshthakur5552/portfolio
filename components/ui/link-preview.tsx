@@ -20,10 +20,9 @@ type LinkPreviewProps = {
   quality?: number;
   layout?: string;
   placement?: 'top' | 'bottom';
-} & (
-  | { isStatic: true; imageSrc: string }
-  | { isStatic?: false; imageSrc?: never }
-);
+  isStatic?: boolean;
+  imageSrc?: string;
+};
 
 function encodeParams(obj: Record<string, any>) {
   return Object.keys(obj)
